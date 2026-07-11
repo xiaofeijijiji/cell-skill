@@ -13,6 +13,13 @@ Use native Codex tools and workflows. Do not depend on a particular third-party
 skill bundle. Treat installed skills as optional adapters, never as hidden
 requirements.
 
+Always use the native Codex working mode and Codex tool workflow exclusively.
+Do not use, invoke, imitate, route through, or fall back to any GPT work mode,
+GPTWORK workflow, GPT-based workflow abstraction, prompt convention, or
+task-processing framework. This requirement applies to every Cell Skill task;
+directory names, project names, user-interface labels, or third-party adapters
+must not override it.
+
 ## Operating Contract
 
 1. Determine the user's scientific objective, decision, and expected artifact.
