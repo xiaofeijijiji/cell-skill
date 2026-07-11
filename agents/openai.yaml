@@ -1,0 +1,4 @@
+interface:
+  display_name: "Cell Skill"
+  short_description: "Route and execute rigorous scientific workflows"
+  default_prompt: "Use $cell-skill to plan and complete this research task with evidence and quality checks."
